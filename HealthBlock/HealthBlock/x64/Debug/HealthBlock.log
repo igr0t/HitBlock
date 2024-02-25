@@ -1,0 +1,55 @@
+﻿  dllmain.cpp
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(10,35): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(10,35): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(10,54): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(10,54): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(13,19): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(13,19): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(13,10): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(27,11): error C2485: '__declspec(identificador)' não é um atributo estendido reconhecido
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(29,5): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(30,9): error C2065: 'add': identificador não declarado
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(30,13): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(30,13): error C2065: 'eax': identificador não declarado
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(31,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'jmp'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(31,9): error C2065: 'jmp': identificador não declarado
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(32,5): error C2143: erro de sintaxe: ';' ausente antes de '}'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(38,24): warning C4305: 'inicializando': truncamento de '__int64' para 'DWORD'
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(38,26): warning C4309: 'inicializando': truncamento de valor constante
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
+C:\Users\igdas\source\repos\HealthBlock\HealthBlock\dllmain.cpp(41,14): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'void *' de tamanho maior
+  (compilando o arquivo fonte '/dllmain.cpp')
+  
